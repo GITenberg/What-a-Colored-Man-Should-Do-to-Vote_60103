@@ -1,5 +1,8 @@
 _repo: What-a-Colored-Man-Should-Do-to-Vote_60103
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60103-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60103#What-a-Colored-Man-Should-Do-to-Vote
 gutenberg_issued: '2019-08-15'
 gutenberg_type: Text
 identifiers:
